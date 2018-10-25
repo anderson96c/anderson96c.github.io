@@ -1,0 +1,78 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+
+ h1, h2, h3
+ {
+ 		font-family: 'Press Start 2P', cursive;
+ }
+
+ p
+ {
+  font-family: 'Chakra Petch', cursive;
+ }
+
+header
+{
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) 
+{
+  header 
+  {
+    padding: 156px 0 100px;
+  }
+}
+
+section 
+{
+  padding: 150px 0;
+}
+
+.bg-darkblue
+{
+	background-color: rgb(54,69,79);
+}
+
+.prime-bgcolor
+{
+		background-color: rgb(112,128,144);
+}
+
+.secon-bgcolor
+{
+		background-color: rgb(83,104,120);
+}
+
+.qm-bg
+{
+	background-image: url("../images/questionmark_bg.png");
+}
+
+.xp-bg
+{
+  background-image: url("../images/xp-bg.png");
+}
+
+.sk-bg
+{
+  background-image: url("../images/skills_bg.png");
+}
+
+.pad-top
+{
+  padding-top: 300px;
+}
+
+.pad-bot
+{
+  padding-bottom: 200px;
+}
+
+.progress-bar
+{
+  background-color: orange;
+}
